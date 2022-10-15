@@ -1,7 +1,7 @@
 "# Evaecommerce" 
 Olá, Seja Bem vindo!
 
-Primeiro de tudo gostaria de agradecer a opotunidade dada a mim por participar do processo seletivo.
+Primeiro de tudo gostaria de agradecer a opotunidade dada a mim para participar do processo seletivo.
 
 Dito isso, segui fielmente o layout do figma e alguns assets disponibilizados se encontravam na cor errada (preta), tomei a liberdade de exportar os corretos de cor branca do layout pelo proprio figma.
 
