@@ -9,7 +9,7 @@ Botões como o de categorias no "header" estao funcionais e também o Menu mobil
 
 Tomei todos os cuidados para o código estar totalmente limpo e conta com 0 erros de html podendo ser testado no validator da W3c "https://validator.w3.org/#validate_by_input".
 
-Sinto em informar que quanto a implementação da Api não obtive sucesso, consegui desenvolver parcialmente o codigo, coletando o necessário de cada item mas sem sucesso em setar no Dom.
+Sinto em informar que quanto a implementação da Api não obtive sucesso, consegui desenvolver parcialmente o codigo, coletando o necessário de cada item mas sem sucesso em setar no Dom, com todo o resto estou satisfeito e acho que fiz um bom trabalho.
 
 Para baixar e rodar o projeto basta selecionar o arquivo e clickar ou em "Code" logo acima, e após "Download Zip",  escolher o caminho de destino e abrir seu index.html.
 
