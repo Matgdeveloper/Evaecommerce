@@ -11,7 +11,7 @@ Tomei todos os cuidados para o código estar totalmente limpo e conta com 0 erro
 
 Sinto em informar que quanto a implementação da Api não obtive sucesso, consegui desenvolver parcialmente o codigo, coletando o necessário de cada item mas sem sucesso em setar no Dom.
 
-Para baixar e Rodar o Projeto basta Selecionar o Arquivo e clickar ou em "Raw" ou em "Download" ao lado direito, escolher o caminho de destino e abri seu index.html.
+Para baixar e Rodar o Projeto basta Selecionar o Arquivo e clickar ou em "Code" logo acima, e após "Download Zip",  escolher o caminho de destino e abrir seu index.html.
 
 Espero que gostem!
 
